@@ -1,0 +1,23 @@
+/* Deliberately minimal. Iterate later. */
+body {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 2rem 1.25rem 4rem;
+  font: 18px/1.6 Georgia, "Times New Roman", serif;
+  color: #222;
+  background: #fffdf8;
+}
+a { color: #1a4f8b; }
+header { margin-bottom: 2.5rem; }
+header .name { font-size: 1.4rem; font-weight: bold; text-decoration: none; color: #222; }
+nav a { margin-right: 1rem; font-size: 0.95rem; }
+h1 { font-size: 1.8rem; line-height: 1.25; }
+h2 { font-size: 1.25rem; margin-top: 2.5rem; }
+ul.list { list-style: none; padding: 0; }
+ul.list li { margin-bottom: 1rem; }
+.meta { color: #777; font-size: 0.85rem; }
+.todo { background: #fff3c4; padding: 0 0.25rem; }
+footer { margin-top: 4rem; color: #777; font-size: 0.85rem; }
+img { max-width: 100%; height: auto; }
+figcaption { color: #777; font-size: 0.85rem; }
+blockquote, .pullquote { border-left: 3px solid #ddd; margin-left: 0; padding-left: 1rem; color: #444; }
